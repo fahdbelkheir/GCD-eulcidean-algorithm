@@ -20,7 +20,7 @@ int main() {
 
     int gcd = compute_gcd(A, B);
 
-    
+    // Display the result
     printf("The GCD of %d and %d is: %d\n", A, B, gcd);
 
     return 0;
